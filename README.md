@@ -1,10 +1,7 @@
-Global-Solution---1-Semestre
-Projeto de detecção de enchentes usando dados públicos, modelos de machine learning e sensores de medição.
+Global Solution - 1° Semestre - FIAP 2025
 
 SISTEMA DE DETECÇÃO DE ENCHENTES
-#Aplicação de Machine Learning e IoT para Prevenção de Desastres Naturais
-
-Global Solution FIAP 2025.1
+Aplicação de Machine Learning e IoT para Prevenção de Desastres Naturais
 
 ---
 
