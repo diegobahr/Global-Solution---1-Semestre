@@ -15,6 +15,7 @@ INTEGRANTES DO GRUPO
 - João Victor Mendes Nogueira Francez - RM564913 - joaovictorfrancez@outlook.com
 
 INFORMAÇÕES DO PROJETO
+- Repositório GitHub: https://github.com/diegobahr/Global-Solution-1-Semestre-Sistema-Previsao-Enchentes
 - Demonstração Wokwi: https://wokwi.com/projects/433032697611260929
 - Data de Entrega: 6 de junho de 2025
 
